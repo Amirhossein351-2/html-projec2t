@@ -1,2 +1,1 @@
-# html-projec2t
-This is for my website, Last of news
+This is site for last news, for example HCKR news!
